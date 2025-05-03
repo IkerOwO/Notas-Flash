@@ -2,7 +2,7 @@
 An app created with Java for PC to take notes 
 
 # Usage
-Execute the Main.java.
+Execute the Main.java
 
 1. If you want to enter a task just enter the text on the textField and press the submit button.The Task will be saved on a txt file
 2. To read the task, the program will read it from the txt file. DON'T CHANGE THE TXT FILE NAME
