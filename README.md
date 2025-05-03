@@ -10,4 +10,4 @@ Execute the Main.java
 
 # Don't use it for Commercial Uses
 
-<h1 style='text-align=center'> Created by Iker </h1>
+<h1 align=center> Created by Iker </h1>
